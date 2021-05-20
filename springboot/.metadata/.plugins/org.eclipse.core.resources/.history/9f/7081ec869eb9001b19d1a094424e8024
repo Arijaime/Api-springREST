@@ -1,0 +1,5 @@
+package com.arielj.springboot.fibonaccipackage;
+
+public class Fibonacci {
+
+}
