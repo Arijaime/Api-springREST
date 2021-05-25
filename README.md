@@ -15,3 +15,7 @@ can be modified
 you can see the documentation with Swagger entering localhost: {port} /swagger-ui.html
 
 
+The api complies with the steps outlined in the technical 
+requirements, swagger and Gitflow were implemented, in addition CRUD
+resources were added, and search by query param.
+
