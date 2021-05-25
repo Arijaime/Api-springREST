@@ -23,5 +23,7 @@ resources were added, and search by query param.
 
 the project can be run on the finish using the command: mvnw spring-boot: run
 
+use POSTMAN /SOAP UI or any http request tool to send the inputs
+
 [link to WAR archive](https://drive.google.com/file/d/1NuwUq3NMUYTOHwi8HAiVKgjEDWntduvm/view?usp=sharing)
 
