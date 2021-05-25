@@ -1,0 +1,8 @@
+package com.arielj.springboot.fibonaccis;
+
+import java.io.Serializable;
+
+public class Fibonacci implements Serializable {
+	
+
+}
